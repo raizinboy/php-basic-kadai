@@ -11,8 +11,8 @@
             $item_info = ['名前' => '玉ねぎ', '値段' => 200, '産地' => '北海道'];
 
             //連想配列の要素を一つずつ出力する
-            foreach ($item_info as $key => $value){
-                echo "{$key}:{$value}<br>";
+            foreach ($item_info as $index => $value){
+                echo "{$index}:{$value}<br>";
             }
             ?>
         </p>

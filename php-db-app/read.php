@@ -1,5 +1,5 @@
 <?php 
-$dsn = 'mysql:dbname=vn6nc6cs8uz15dnhPS C:\xampp\htdocs\php-db-app;host=klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;charset=utf8mb4';
+$dsn = 'mysql:dbname=vn6nc6cs8uz15dnh;host=klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;charset=utf8mb4';
 $user = 'ipdlhzhetgmr3pk2';
 $password = 'anst1nhje7564cbn';
 
